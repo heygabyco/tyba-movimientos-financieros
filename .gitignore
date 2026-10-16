@@ -1,0 +1,8 @@
+# Archivos generados
+/data/output/*
+!/data/output/.gitkeep
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
